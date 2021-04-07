@@ -1,0 +1,28 @@
+@font-face {
+  font-family: ACBlack;
+  src: url(/fonts/AdobeClean-Black.otf?059eade325cede10c6b75cde2c56058e);
+}
+@font-face {
+  font-family: ACBlackLit;
+  src: url(/fonts/AdobeClean-BlackIt.otf?e12cab7d9709104d0f5a5f9bfffdc043);
+}
+@font-face {
+  font-family: ACBoldCond;
+  src: url(/fonts/AdobeClean-BoldCond.otf?9fce29b3b22521dafaef4c2c7a609396);
+}
+@font-face {
+  font-family: ACBoldCondIt;
+  src: url(/fonts/AdobeClean-BoldCondIt.otf?bf3d0eb336cb3168c0ac444979c3a6b8);
+}
+@font-face {
+  font-family: ACBoldSemiCn;
+  src: url(/fonts/AdobeClean-BoldSemiCn.otf?09cf46586a6903cc02f7311c68c64a1f);
+}
+@font-face {
+  font-family: ACSemiLight;
+  src: url(/fonts/AdobeClean-SemiLight.otf?1c283b680c7383a8b8e9fa035451b8a1);
+}
+@font-face {
+  font-family: ACLight;
+  src: url(/fonts/AdobeClean-Light.otf?b94d7b86ed77076e40dab2965828141f);
+}
